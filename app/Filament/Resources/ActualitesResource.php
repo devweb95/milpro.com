@@ -23,13 +23,19 @@ class ActualitesResource extends Resource
     {
         return $form
             ->schema([
+                Forms\Components\FileUpload::make('image') // 'image' doit correspondre à la colonne de votre BDD
+                ->label('Image')
+                ->image()
+                ->directory('actualites/images') // Dossier de stockage (dans storage/app/public)
+                ->visibility('public') // Accès public
+                ->required(), // Optionnel
                 Forms\Components\TextInput::make('titre')
                     ->required()
                     ->maxLength(255),
                 Forms\Components\Textarea::make('contenu')
                     ->required()
                     ->columnSpanFull(),
-                Forms\Components\DateTimePicker::make('date_publication'),
+                Forms\Components\DatePicker::make('date_publication'),
             ]);
     }
 
@@ -37,6 +43,8 @@ class ActualitesResource extends Resource
     {
         return $table
             ->columns([
+                Tables\Columns\ImageColumn::make('image')
+                    ->disk('public'),
                 Tables\Columns\TextColumn::make('titre')
                     ->searchable(),
                 Tables\Columns\TextColumn::make('date_publication')

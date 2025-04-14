@@ -8,6 +8,7 @@ class actualites extends Model
 {
     //
     protected $fillable = [
+        'image',
         'titre',
         'contenu',
         'date_publication',
