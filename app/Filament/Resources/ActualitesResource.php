@@ -28,6 +28,7 @@ class ActualitesResource extends Resource
                 ->image()
                 ->directory('actualites/images') // Dossier de stockage (dans storage/app/public)
                 ->visibility('public') // Accès public
+                ->maxsize(500) // Accès public
                 ->required(), // Optionnel
                 Forms\Components\TextInput::make('titre')
                     ->required()

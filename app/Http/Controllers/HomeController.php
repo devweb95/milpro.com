@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Actualite;
 
 class HomeController extends Controller
 {
@@ -23,7 +24,8 @@ class HomeController extends Controller
     }
     public function actualites()
     {
-        return view('blog'); // La vue 'home.blade.php' dans resources/views
+        $actualites= Actualite::all();
+        return view('blog', compact('actualites')); // La vue 'home.blade.php' dans resources/views
     }
     public function contact()
     {
