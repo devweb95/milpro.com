@@ -27,7 +27,7 @@
                 <div class="col-lg-4">
                     <div class="footer-wrapper-left-one">
                         <a href="index.html" class="logo">
-                            <img src="assets/images/logo/01.svg" alt="logo">
+                            <img src="assets/images/logo/logo.jpg" alt="logo" style="max-width: 150px;">
                         </a>
                         <p class="disc">
                             we’re committed to elevating the construction experience for our clients. With a passion for
