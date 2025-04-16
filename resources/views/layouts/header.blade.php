@@ -58,8 +58,8 @@
                                     <li class="main-nav"><a href="{{route('contact')}}">Contact</a></li>
                                 </ul>
                             </div>
-                            <div class="header-end">
-                                <a href="contact.html" class="rts-btn btn-primary">Demande de devis</a>
+                            <div class="header-end ">
+                                <a href="contact.html" class="rts-btn btn-primary ">Demande de devis</a>
                                 <div class="nav-btn menu-btn">
                                     <img src="assets/images/logo/bar.svg" alt="nav-iamge">
                                 </div>

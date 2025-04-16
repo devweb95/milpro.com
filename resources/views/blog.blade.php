@@ -36,7 +36,6 @@
             <div class="row g-24 mt--30 mt_sm--10">
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single blog area start -->
-                     {{$actualites}}
                      @foreach($actualites as $actualite)
                     <div class="rts-blog-card-one">
                         <a href="blog-details.html" class="thumbnail">

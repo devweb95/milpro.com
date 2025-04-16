@@ -4,23 +4,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <title>MILLPRO</title>
     <!-- fontawesome css -->
-    <link rel="stylesheet" preload href="assets/css/plugins/fontawesome.css">
-    <link rel="stylesheet" preload href="assets/css/plugins/aos.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/plugins/fontawesome.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/plugins/aos.css') }}">
     <!-- swiper css-->
-    <link rel="stylesheet" preload href="assets/css/plugins/odometer.css">
-    <link rel="stylesheet" preload href="assets/css/plugins/swiper.css">
-    <link rel="stylesheet" preload href="assets/css/plugins/metismenu.css">
-    <link rel="stylesheet" preload href="assets/css/plugins/magnifying-popup.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/plugins/odometer.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/plugins/swiper.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/plugins/metismenu.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/plugins/magnifying-popup.css') }}">
 
     <!-- bootstrap css -->
-    <link rel="stylesheet" preload href="assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/vendor/bootstrap.min.css') }}">
     <!-- custom css here -->
-    <link rel="stylesheet" preload href="assets/css/style.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+<!-- custom scss here -->
+    <link rel="stylesheet" href="{{ asset('assets/scss/style.scss') }}">
+    @stack('styles')
 </head>
 <body>
+@vite(['resources/css/app.css'])
+@vite(['resources/assets/scss/style.scss'])
     @include('layouts.header')
     <div class="container">
     @yield('content')
