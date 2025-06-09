@@ -47,8 +47,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Gantari:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
 :root {
-  --color-primary: #;
-  --color-secondary: #;
+  --color-primary: #542D11;
+  --color-secondary: #FFD700;
   --color-body: #6B6B6B;
   --color-heading-1: #FFFFFF;
   --color-title: #141416;
@@ -12970,6 +12970,7 @@ li.has-dropdown:hover::after {
 .has-dropdown.mega-menu::after {
   display: none;
 }
+
 
 .rts-btn.btn-primary.border.bg-transparent {
   color: var(--color-primary);

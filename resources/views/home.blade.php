@@ -8,6 +8,7 @@
     <!-- header two area end -->
    
     <div class="banner-two-swiper-main-wrapper engineering-banner">
+        <!-- SLIDER -->
 
         <div class="swiper mySwiper-banner2 mySwiper-banner-factrory" dir="ltr">
             <div class="swiper-wrapper">
@@ -18,20 +19,21 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="banner-two-inner">
-                                        <span>Building The Better Future</span>
+                                        <span>Des solutions industrielles au service de vos ambitions.</span>
                                         <h1 class="title">
-                                            We’re Providing <br>
-                                            Industry Roofing <br>
-                                            Solution
+                                            Maintenance &  <br>
+                                            Fourniture Industrielle <br>
                                         </h1>
                                         <p class="disc">
-                                            We provide a range of services including residential and commercial
-                                            construction,
-                                            renovations, project management, and custom builds.
+                                            Nous sommes une entreprise burkinabè spécialisée dans les services de 
+                                            maintenance industrielle et la fourniture d’équipements pour les secteurs miniers, 
+                                            industriels et logistiques. Nos solutions sur mesure garantissent performance, sécurité 
+                                            et durabilité à vos installations.
+                                           
                                         </p>
                                         <div class="button-wrapper">
-                                            <a href="project-card.html" class="rts-btn btn-primary">View Project</a>
-                                            <a href="service.html" class="rts-btn btn-white">Our Services</a>
+                                            <a href="project-card.html" class="rts-btn btn-primary">Nos Services</a>
+                                            <!-- <a href="service.html" class="rts-btn btn-white"></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -40,64 +42,8 @@
                     </div>
                     <!-- banner area end -->
                 </div>
-                <div class="swiper-slide">
-                    <!-- banner area start -->
-                    <div class="banner-area-start bg_banner-bg-area two rts-section-gap bg_image">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="banner-two-inner">
-                                        <span>Building The Better Future</span>
-                                        <h1 class="title">
-                                            We’re Providing <br>
-                                            Industry Roofing <br>
-                                            Solution
-                                        </h1>
-                                        <p class="disc">
-                                            We provide a range of services including residential and commercial
-                                            construction,
-                                            renovations, project management, and custom builds.
-                                        </p>
-                                        <div class="button-wrapper">
-                                            <a href="project-card.html" class="rts-btn btn-primary">View Project</a>
-                                            <a href="service.html" class="rts-btn btn-white">Our Services</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- banner area end -->
-                </div>
-                <div class="swiper-slide">
-                    <!-- banner area start -->
-                    <div class="banner-area-start bg_banner-bg-area three rts-section-gap bg_image">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="banner-two-inner">
-                                        <span>Building The Better Future</span>
-                                        <h1 class="title">
-                                            We’re Providing <br>
-                                            Industry Roofing <br>
-                                            Solution
-                                        </h1>
-                                        <p class="disc">
-                                            We provide a range of services including residential and commercial
-                                            construction,
-                                            renovations, project management, and custom builds.
-                                        </p>
-                                        <div class="button-wrapper">
-                                            <a href="project-card.html" class="rts-btn btn-primary">View Project</a>
-                                            <a href="service.html" class="rts-btn btn-white">Our Services</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- banner area end -->
-                </div>
+                
+                
             </div>
         </div>
         <div class="swiper-button-next"><i class="fa-sharp-duotone fa-light fa-arrow-right"></i>
@@ -123,15 +69,23 @@
                 </div>
                 <div class="col-xl-6 mt_md--25 mt_sm--30">
                     <div class="about-area-right-3">
-                        <h2 class="title">Explore Our Construction Portfolio</h2>
-                        <p class="bold">Quis nulla blandit vulputate morbi adipiscing sem vestibulum. Nulla turpis
-                            integer dui sed posuere sem. Id molestie mi arcu gravida lorem potenti.</p>
-                        <p class="disc">
-                            Elever Architecture is a New-York-based studio practice focused on modern design, interiors
-                            and landscapes. From our inception in 2007, we have delivered exceptional public and private
-                            environments that are stimulating to occupy and fundamental to their surroundings.
-                        </p>
-                        <div class="call-area-wrapper">
+                        <h2 class="title">MILLPRO</h2>
+                        <p class="bold">  MILLPRO est une société dynamique et innovante, spécialisée dans les services de maintenance industrielle, 
+                        les fournitures techniques et les solutions adaptées aux secteurs miniers, industriels et logistiques, au Burkina Faso et à l’étranger.
+                        Forte d’une expertise multidisciplinaire, MILLPRO propose des services de qualité et des produits adaptés aux besoins spécifiques des 
+                        industries extractives.
+                        MILLPRO accompagne les entreprises des secteurs miniers et industriels dans leur 
+                        fonctionnement quotidien grâce à des services de maintenance performants et des équipements fiables.</p>
+                      <!--  <p class="disc"> 
+                           
+                        MILLPRO est une société dynamique et innovante, spécialisée dans les services de maintenance industrielle, 
+                        les fournitures techniques et les solutions adaptées aux secteurs miniers, industriels et logistiques, au Burkina Faso et à l’étranger.
+                        Forte d’une expertise multidisciplinaire, MILLPRO propose des services de qualité et des produits adaptés aux besoins spécifiques des 
+                        industries extractives.
+                        MILLPRO accompagne les entreprises des secteurs miniers et industriels dans leur 
+                        fonctionnement quotidien grâce à des services de maintenance performants et des équipements fiables.
+                        </p> -->
+                        <!-- <div class="call-area-wrapper">
                             <div class="call-area">
                                 <img src="assets/images/about/04.webp" alt="about">
                                 <div class="info">
@@ -140,37 +94,32 @@
                                 </div>
                             </div>
                             <img src="assets/images/about/05.webp" alt="sig">
-                        </div>
+                        </div> -->
                         <div class="tab-area-about">
                             <ul class="nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link active" id="home-tab" data-bs-toggle="tab"
                                         data-bs-target="#home" type="button" role="tab" aria-controls="home"
-                                        aria-selected="true">Our Mission</button>
+                                        aria-selected="true">Nos Missions</button>
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link" id="profile-tab" data-bs-toggle="tab"
                                         data-bs-target="#profile" type="button" role="tab" aria-controls="profile"
-                                        aria-selected="false">Our Vision</button>
+                                        aria-selected="false">Nos Visions</button>
                                 </li>
                             </ul>
                             <div class="tab-content" id="myTabContent">
                                 <div class="tab-pane fade show active" id="home" role="tabpanel"
                                     aria-labelledby="home-tab">
-                                    We build multi-family and affordable housing communities, industrial facilities,
-                                    public and
-                                    private healthcare facilities, fitness centers and office buildings. We improve the
-                                    supply
-                                    chain management process, increase operational efficie We build multi-family and
-                                    affordable housing communities, industrial facilities, public and
+                                    Fournir aux acteurs des secteurs miniers, industriels et logistiques des solutions 
+                                    techniques fiables, innovantes et durables en matière de maintenance et de fourniture 
+                                    industrielle, afin d’optimiser leurs performances opérationnelles et réduire les interruptions
+                                     d’activité.
                                 </div>
                                 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                                    We build multi-family and affordable housing communities, industrial facilities,
-                                    public and
-                                    private healthcare facilities, fitness centers and office buildings. We improve the
-                                    supply
-                                    chain management process, increase operational efficie We build multi-family and
-                                    affordable housing communities, industrial facilities, public and
+                                    Devenir un leader de référence en Afrique de l’Ouest dans le domaine de la maintenance 
+                                    industrielle et de la fourniture d’équipements techniques, reconnu pour son expertise, 
+                                    sa réactivité et son engagement envers la qualité.
                                 </div>
                             </div>
                         </div>
@@ -187,8 +136,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-center-style-one">
-                        <span class="pre">Recent Projects</span>
-                        <h2 class="title">Our Completed Projects</h2>
+                        <span class="pre">Services</span>
+                        <h2 class="title">Nos differents services</h2>
                     </div>
                 </div>
             </div>
@@ -206,12 +155,12 @@
                                     </a>
                                     <div class="inner-content-project">
                                         <a href="project-details.html">
-                                            <h2 class="title">Azila Mansion</h2>
+                                            <h2 class="title">maintenance des moulins</h2>
                                         </a>
-                                        <p class="location">Luxury Residences, Modern Homes</p>
-                                        <a href="#" class="location"><i class="fa-sharp fa-regular fa-location-dot"></i>
-                                            Dubai Marina</a>
-                                        <div class="thumb-wrapper">
+                                        <p class="location">Services </p>
+                                        <!-- <a href="#" class="location"><i class="fa-sharp fa-regular fa-location-dot"></i>
+                                            Dubai Marina</a> -->
+                                        <!-- <div class="thumb-wrapper">
                                             <div class="single">
                                                 <span>Price:</span>
                                                 <p>From $290k</p>
@@ -228,8 +177,10 @@
                                                 <span>Duration:</span>
                                                 <p>5Y, 3M</p>
                                             </div>
-                                        </div>
+                                        </div>-->
                                     </div>
+                                    <a href="appoinment.html" class="rts-btn btn-primary">Découvrez nos services<img
+                                src="assets/images/icons/arrow-up-right.svg" alt=""></a>
                                 </div>
                                 <!-- single project area end -->
                             </div>
@@ -241,12 +192,12 @@
                                     </a>
                                     <div class="inner-content-project">
                                         <a href="project-details.html">
-                                            <h2 class="title">Azila Mansion</h2>
+                                            <h2 class="title">collages des bandes convoyeuses</h2>
                                         </a>
-                                        <p class="location">Luxury Residences, Modern Homes</p>
-                                        <a href="#" class="location"><i class="fa-sharp fa-regular fa-location-dot"></i>
-                                            Dubai Marina</a>
-                                        <div class="thumb-wrapper">
+                                        <p class="location">Services</p>
+                                        <!-- <a href="#" class="location"><i class="fa-sharp fa-regular fa-location-dot"></i>
+                                            Dubai Marina</a> -->
+                                        <!-- <div class="thumb-wrapper">
                                             <div class="single">
                                                 <span>Price:</span>
                                                 <p>From $290k</p>
@@ -263,78 +214,10 @@
                                                 <span>Duration:</span>
                                                 <p>5Y, 3M</p>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
-                                </div>
-                                <!-- single project area end -->
-                            </div>
-                            <div class="swiper-slide">
-                                <!-- single project area start -->
-                                <div class="project-area-start-1">
-                                    <a href="project-details.html" class="thumbnail">
-                                        <img src="assets/images/portfolio/04.webp" alt="">
-                                    </a>
-                                    <div class="inner-content-project">
-                                        <a href="project-details.html">
-                                            <h2 class="title">Azila Mansion</h2>
-                                        </a>
-                                        <p class="location">Luxury Residences, Modern Homes</p>
-                                        <a href="#" class="location"><i class="fa-sharp fa-regular fa-location-dot"></i>
-                                            Dubai Marina</a>
-                                        <div class="thumb-wrapper">
-                                            <div class="single">
-                                                <span>Price:</span>
-                                                <p>From $290k</p>
-                                            </div>
-                                            <div class="single">
-                                                <span>Client:</span>
-                                                <p>RC Builders</p>
-                                            </div>
-                                            <div class="single">
-                                                <span>Project Year:</span>
-                                                <p>15 Oct 2019</p>
-                                            </div>
-                                            <div class="single">
-                                                <span>Duration:</span>
-                                                <p>5Y, 3M</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single project area end -->
-                            </div>
-                            <div class="swiper-slide">
-                                <!-- single project area start -->
-                                <div class="project-area-start-1">
-                                    <a href="project-details.html" class="thumbnail">
-                                        <img src="assets/images/portfolio/04.webp" alt="">
-                                    </a>
-                                    <div class="inner-content-project">
-                                        <a href="project-details.html">
-                                            <h2 class="title">Azila Mansion</h2>
-                                        </a>
-                                        <p class="location">Luxury Residences, Modern Homes</p>
-                                        <a href="#" class="location"><i class="fa-sharp fa-regular fa-location-dot"></i>
-                                            Dubai Marina</a>
-                                        <div class="thumb-wrapper">
-                                            <div class="single">
-                                                <span>Price:</span>
-                                                <p>From $290k</p>
-                                            </div>
-                                            <div class="single">
-                                                <span>Client:</span>
-                                                <p>RC Builders</p>
-                                            </div>
-                                            <div class="single">
-                                                <span>Project Year:</span>
-                                                <p>15 Oct 2019</p>
-                                            </div>
-                                            <div class="single">
-                                                <span>Duration:</span>
-                                                <p>5Y, 3M</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <a href="appoinment.html" class="rts-btn btn-primary">Découvrez nos services<img
+                                src="assets/images/icons/arrow-up-right.svg" alt=""></a>
                                 </div>
                                 <!-- single project area end -->
                             </div>
@@ -345,7 +228,7 @@
             </div>
         </div>
         <!-- team area start -->
-        <div class="rts-team-area-start rts-section-gapTop">
+       <!--  <div class="rts-team-area-start rts-section-gapTop">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -431,9 +314,9 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- team area start end -->
-    </div>
+        </div>-->
+    
+    </div> 
     <!-- portfolio team area ends -->
 
     <!-- demanding service area start -->
@@ -443,13 +326,12 @@
                 <div class="col-lg-12">
                     <div class="title-area-wrapper-main-two">
                         <div class="title-style-two-left">
-                            <h2 class="title">We Provide Demanding Services</h2>
+                            <h2 class="title">Fournitures et pièces détachées</h2>
                             <p class="disc">
-                                Quis nulla blandit vulputate morbi adipiscing sem vestibulum. Nulla turpis integer dui
-                                sed posuere sem. Id molestie mi arcu gravida lorem potenti.
+                                Fournitures d’articles de Convoyeur et de pièces détachées de concasseurs et broyeurs.
                             </p>
                         </div>
-                        <a href="appoinment.html" class="rts-btn btn-primary">Book Appointment<img
+                        <a href="appoinment.html" class="rts-btn btn-primary">Consultez notre catalogue <img
                                 src="assets/images/icons/arrow-up-right.svg" alt=""></a>
                     </div>
                 </div>
@@ -470,49 +352,100 @@
                             <img src="assets/images/service/icons/04.svg" alt="service">
                         </div>
                         <a href="service-single.html">
-                            <h4 class="title">Experience & Quality</h4>
+                            <h4 class="title">convoyeurs</h4>
                         </a>
                         <span class="number">01</span>
                         <p class="disc">
                             Once planning is complete, site preparation begins. This phase involves clearing the land,
                             grading, and excavating the site to ensure it is ready.
                         </p>
-                        <a href="service-single.html" class="read-more-btn">Read More<i
+                        <a href="service-single.html" class="read-more-btn">Lire plus<i
                                 class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="single-service-area-3">
                         <div class="icon">
-                            <img src="assets/images/service/icons/05.svg" alt="service">
+                            <img src="assets/images/service/icons/04.svg" alt="service">
                         </div>
                         <a href="service-single.html">
-                            <h4 class="title">Renovations and Remodeling</h4>
+                            <h4 class="title">Produits chimiques</h4>
                         </a>
                         <span class="number">02</span>
                         <p class="disc">
                             Once planning is complete, site preparation begins. This phase involves clearing the land,
                             grading, and excavating the site to ensure it is ready.
                         </p>
-                        <a href="service-single.html" class="read-more-btn">Read More<i
+                        <a href="service-single.html" class="read-more-btn">Lire plus<i
                                 class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="single-service-area-3">
                         <div class="icon">
-                            <img src="assets/images/service/icons/06.svg" alt="service">
+                            <img src="assets/images/service/icons/04.svg" alt="service">
                         </div>
                         <a href="service-single.html">
-                            <h4 class="title">Design Build Services</h4>
+                            <h4 class="title">Huilerie</h4>
                         </a>
                         <span class="number">03</span>
                         <p class="disc">
                             Once planning is complete, site preparation begins. This phase involves clearing the land,
                             grading, and excavating the site to ensure it is ready.
                         </p>
-                        <a href="service-single.html" class="read-more-btn">Read More<i
+                        <a href="service-single.html" class="read-more-btn">Lire plus<i
                                 class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="single-service-area-3">
+                        <div class="icon">
+                            <img src="assets/images/service/icons/04.svg" alt="service">
+                        </div>
+                        <a href="service-single.html">
+                            <h4 class="title">Equipement de concasseur</h4>
+                        </a>
+                        <span class="number">04</span>
+                        <p class="disc">
+                            Once planning is complete, site preparation begins. This phase involves clearing the land,
+                            grading, and excavating the site to ensure it is ready.
+                        </p>
+                        <a href="service-single.html" class="read-more-btn">Lire plus<i
+                                class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="single-service-area-3">
+                        <div class="icon">
+                            <img src="assets/images/service/icons/04.svg" alt="service">
+                        </div>
+                        <a href="service-single.html">
+                            <h4 class="title">Equipement de tuyauterie</h4>
+                        </a>
+                        <span class="number">05</span>
+                        <p class="disc">
+                            Once planning is complete, site preparation begins. This phase involves clearing the land,
+                            grading, and excavating the site to ensure it is ready.
+                        </p>
+                        <a href="service-single.html" class="read-more-btn">Lire plus<i
+                                class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="single-service-area-3">
+                        <div class="icon">
+                            <img src="assets/images/service/icons/04.svg" alt="service">
+                        </div>
+                        <a href="service-single.html">
+                            <h4 class="title">Equipement de concasseur</h4>
+                        </a>
+                        <span class="number">06</span>
+                        <p class="disc">
+                            Once planning is complete, site preparation begins. This phase involves clearing the land,
+                            grading, and excavating the site to ensure it is ready.
+                        </p>
+                        <a href="service-single.html" class="read-more-btn">Lire plus
+                        <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -544,10 +477,9 @@
                 <div class="col-xl-6 col-lg-12 pt_md--30 pt_sm--50">
                     <div class="how-we-works-wrappers">
                         <div class="title-wrapper-left mb--50">
-                            <span class="pre">How We Works</span>
+                            <span class="pre">Comment nous travaillons</span>
                             <h2 class="title">
-                                How To Work With Elever <br>
-                                Construction Builder
+                                Comment lancer votre demande de service
                             </h2>
                         </div>
                         <div class="single-choose-us-one">
@@ -556,9 +488,8 @@
                                 <span>1</span>
                             </div>
                             <div class="info-wrapper">
-                                <h5 class="title">Consultation & Planning</h5>
-                                <p class="disc">We begin with a thorough consultation to understand your vision, budget,
-                                    and project goals. Our team works with you to develop a tailored plan</p>
+                                <h5 class="title">Consulter les services et produits</h5>
+                                <p class="disc">Millpro propose un accompagnement global pour les sociétés minières à travers des services adaptés à leurs besoins</p>
                             </div>
                         </div>
                         <div class="single-choose-us-one">
@@ -567,9 +498,8 @@
                                 <span>2</span>
                             </div>
                             <div class="info-wrapper">
-                                <h5 class="title">Design & Pre-Construction</h5>
-                                <p class="disc">We begin with a thorough consultation to understand your vision, budget,
-                                    and project goals. Our team works with you to develop a tailored plan</p>
+                                <h5 class="title">Remplir le formulaire</h5>
+                                <p class="disc">Remplissez ce formulaire pour que nous puissions répondre rapidement à votre demande.</p>
                             </div>
                         </div>
                         <div class="single-choose-us-one">
@@ -578,9 +508,8 @@
                                 <span>3</span>
                             </div>
                             <div class="info-wrapper">
-                                <h5 class="title">Construction & Delivery</h5>
-                                <p class="disc">We begin with a thorough consultation to understand your vision, budget,
-                                    and project goals. Our team works with you to develop a tailored plan</p>
+                                <h5 class="title">Contactez nous</h5>
+                                <p class="disc">Notre équipe est à votre écoute pour vous apporter une solution adaptée.</p>
                             </div>
                         </div>
                     </div>
@@ -601,8 +530,8 @@
                 <div class="col-lg-12">
                     <div class="title-between-style-five mb--35">
                         <div class="title-left-align-five">
-                            <span class="pre">Testimonials</span>
-                            <h2 class="title">We’re The Leader In Construction Industry</h2>
+                            <span class="pre">Commentaires</span>
+                            <h2 class="title">Satisfaction de nos clients</h2>
                         </div>
                         <div class="button-net-prev-area">
 
@@ -727,7 +656,7 @@
     <!-- projects contact us area start -->
     <div class="projects-contact-area-3 rts-section-gap bg_image">
         <!-- rts project area  -->
-        <div class="rts-project-area-three">
+        <!-- <div class="rts-project-area-three">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -821,7 +750,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- rts project area end -->
 
         <!-- appoinment area start -->
@@ -844,7 +773,7 @@
                                 </div>
                                 <div class="col-xl-6">
                                     <div class="appoinment-area-main-form">
-                                        <h3 class="title">Would you like to discuss a project?</h3>
+                                        <h3 class="title">Contactez nous pour plus d'informations</h3>
                                         <form action="#">
                                             <div class="half-input-wrapper">
                                                 <div class="single-input">
@@ -872,7 +801,7 @@
                                             </div>
                                             <textarea name="#" placeholder="Phone Number*" required></textarea>
                                             <button class="rts-btn btn-primary">
-                                                Send Message
+                                                Envoyer
                                                 <img src="assets/images/icons/arrow-up-right.svg" alt="">
                                             </button>
                                         </form>
@@ -898,9 +827,9 @@
                 <div class="col-lg-12">
                     <div class="title-between-style-five mb--35">
                         <div class="title-left-align-five">
-                            <span class="pre">About our company</span>
-                            <h2 class="title">We’re The Leader In <br>
-                                Construction Industry</h2>
+                            <span class="pre">A propos de notre entreprise</span>
+                            <h2 class="title">Nous sommes le leader en matière de  <br>
+                                </h2>
                         </div>
                         <a href="appoinment.html" class="rts-btn btn-primary">Make an Appointment</a>
                     </div>

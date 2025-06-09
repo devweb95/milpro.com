@@ -20,9 +20,9 @@
     <!-- bootstrap css -->
     <link rel="stylesheet" href="{{ asset('assets/css/vendor/bootstrap.min.css') }}">
     <!-- custom css here -->
-    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+   <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}"> 
 <!-- custom scss here -->
-    <link rel="stylesheet" href="{{ asset('assets/scss/style.scss') }}">
+    <link rel="stylesheet" href="{{ asset('assets/scss/style.scss') }}"> 
     @stack('styles')
 </head>
 <body>
