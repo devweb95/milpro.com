@@ -777,17 +777,17 @@
                                         <form action="#">
                                             <div class="half-input-wrapper">
                                                 <div class="single-input">
-                                                    <input type="text" placeholder="Full Name*" required>
+                                                    <input type="text" placeholder="Nom complet*" required>
                                                 </div>
                                                 <div class="single-input">
-                                                    <input type="text" placeholder="Email Address*" required>
+                                                    <input type="text" placeholder="Email*" required>
                                                 </div>
                                             </div>
                                             <div class="half-input-wrapper">
                                                 <div class="single-input">
-                                                    <input type="text" placeholder="Phone Number*" required>
+                                                    <input type="text" placeholder="Telephone*" required>
                                                 </div>
-                                                <div class="single-input">
+                                               <!-- <div class="single-input">
                                                     <select class="wide mb--20">
                                                         <option data-display="Select Project Option*">Select Project
                                                             Option*
@@ -797,7 +797,7 @@
                                                         <option value="3" disabled>A disabled option</option>
                                                         <option value="4">Potato</option>
                                                     </select>
-                                                </div>
+                                                </div> -->
                                             </div>
                                             <textarea name="#" placeholder="Phone Number*" required></textarea>
                                             <button class="rts-btn btn-primary">
@@ -845,7 +845,7 @@
                             <div class="counter-wrapper">
                                 <h2 class="counter title"><span class="odometer" data-count="3658">00</span>+
                                 </h2>
-                                <span class="bottom">Years Of Experience</span>
+                                <span class="bottom">Années d'expériences</span>
                             </div>
                         </div>
                         <div class="single-fun-facts-area-5 justify-content-center">
@@ -855,7 +855,7 @@
                             <div class="counter-wrapper">
                                 <h2 class="counter title"><span class="odometer" data-count="658">00</span>+
                                 </h2>
-                                <span class="bottom">Expert Members</span>
+                                <span class="bottom">Membres experts</span>
                             </div>
                         </div>
                         <div class="single-fun-facts-area-5 justify-content-center justify-content-md-center">
@@ -865,7 +865,7 @@
                             <div class="counter-wrapper">
                                 <h2 class="counter title"><span class="odometer" data-count="368">00</span>+
                                 </h2>
-                                <span class="bottom">Modern Equipment</span>
+                                <span class="bottom">Equipements modernes</span>
                             </div>
                         </div>
                         <div
@@ -876,7 +876,7 @@
                             <div class="counter-wrapper">
                                 <h2 class="counter title"><span class="odometer" data-count="153">00</span>+
                                 </h2>
-                                <span class="bottom"> Tons Of Harvest</span>
+                                <span class="bottom"> Partenaires</span>
                             </div>
                         </div>
                     </div>
@@ -895,17 +895,17 @@
                 <div class="col-lg-12">
                     <div class="title-between-style-five mb--35">
                         <div class="title-left-align-five">
-                            <span class="pre">Service we provide</span>
-                            <h2 class="title">Articles & Blog Posts</h2>
+                            <span class="pre">Blog</span>
+                            <h2 class="title">Articles </h2>
                         </div>
-                        <a href="blog-grid.html" class="rts-btn btn-primary">View All Posts
+                        <a href="blog-grid.html" class="rts-btn btn-primary">Voir toutes les actualités
                             <img src="assets/images/icons/arrow-up-right.svg" alt="">
                         </a>
                     </div>
                 </div>
             </div>
             <div class="row g-24">
-                <div class="col-lg-12">
+                <!--<div class="col-lg-12">
                     <div class="single-blog-card-style-5">
                         <div class="top-area-blog">
                             <span>Through a unique combination of engineering, and construction</span>
@@ -937,11 +937,11 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="col-lg-6">
                     <div class="single-blog-card-style-5 small-blog-five">
                         <div class="top-area-blog">
-                            <span>Through a unique combination of engineering, and construction</span>
+                            <!--<span>Through a unique combination of engineering, and construction</span>-->
                             <a href="blog-details.html" class="thumbnail">
                                 <img src="assets/images/blog/16.webp" alt="blog-image">
                             </a>
@@ -965,7 +965,7 @@
                                         Through a unique combination
                                     </h3>
                                 </a>
-                                <a href="blog-details.html" class="read-more">Read Details</a>
+                                <a href="blog-details.html" class="read-more">Plus de détails</a>
                             </div>
                         </div>
                     </div>
@@ -973,7 +973,7 @@
                 <div class="col-lg-6">
                     <div class="single-blog-card-style-5 small-blog-five">
                         <div class="top-area-blog">
-                            <span>Through a unique combination of engineering, and construction</span>
+                            <!--<span>Through a unique combination of engineering, and construction</span>-->
                             <a href="blog-details.html" class="thumbnail">
                                 <img src="assets/images/blog/17.webp" alt="blog-image">
                             </a>
@@ -997,7 +997,7 @@
                                         Function in Any Room
                                     </h3>
                                 </a>
-                                <a href="blog-details.html" class="read-more">Read Details</a>
+                                <a href="blog-details.html" class="read-more">Plus de détails</a>
                             </div>
                         </div>
                     </div>
@@ -1016,8 +1016,7 @@
                     <h3 class="title-brand counter">
                         <span class="odometer" data-count="156">
                             00
-                        </span>+ companies use Elever to <br>
-                        power their integrations
+                        </span>+ Partenaires
                     </h3>
                 </div>
             </div>
@@ -1028,10 +1027,10 @@
                             <img src="assets/images/brand/07.svg" alt="brand">
                         </div>
                         <h5 class="title">Nicraft</h5>
-                        <p class="disc">
+                        <!--<p class="disc">
                             There are generally two types of AI: Narrow or Weak AI, which is designed to perform
                             specific tasks
-                        </p>
+                        </p>-->
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
@@ -1040,10 +1039,10 @@
                             <img src="assets/images/brand/08.svg" alt="brand">
                         </div>
                         <h5 class="title">Encline</h5>
-                        <p class="disc">
+                        <!--<p class="disc">
                             There are generally two types of AI: Narrow or Weak AI, which is designed to perform
                             specific tasks
-                        </p>
+                        </p>-->
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
@@ -1052,10 +1051,10 @@
                             <img src="assets/images/brand/09.svg" alt="brand">
                         </div>
                         <h5 class="title">Corato</h5>
-                        <p class="disc">
+                       <!--<p class="disc">
                             There are generally two types of AI: Narrow or Weak AI, which is designed to perform
                             specific tasks
-                        </p>
+                        </p>-->
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
@@ -1064,10 +1063,10 @@
                             <img src="assets/images/brand/10.svg" alt="brand">
                         </div>
                         <h5 class="title">Campie</h5>
-                        <p class="disc">
+                       <!--<p class="disc">
                             There are generally two types of AI: Narrow or Weak AI, which is designed to perform
                             specific tasks
-                        </p>
+                        </p>-->
                     </div>
                 </div>
             </div>

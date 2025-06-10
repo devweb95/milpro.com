@@ -7,13 +7,13 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <ul class="footer-float-nav">
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="project.html">Projects</a></li>
-                                        <li><a href="about.html">Updates</a></li>
+                                        <li><a href="about.html">A propos</a></li>
+                                        <!--<li><a href="project.html">Projects</a></li>
+                                        <li><a href="about.html">Updates</a></li>-->
                                         <li><a href="vision.html">Mission</a></li>
-                                        <li><a href="about.html">Inside</a></li>
+                                        <!--<li><a href="about.html">Inside</a></li>-->
                                         <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="company-history.html">History</a></li>
+                                        <!--<li><a href="company-history.html">History</a></li>-->
                                     </ul>
                                 </div>
                             </div>
@@ -30,8 +30,9 @@
                             <img src="assets/images/logo/logo.jpg" alt="logo" style="max-width: 150px;">
                         </a>
                         <p class="disc">
-                            we’re committed to elevating the construction experience for our clients. With a passion for
-                            innovation and quality craftsmanship,
+                            votre fournisseur de confiance pour les produits, équipements et services destinés aux mines industrielles. 
+                            Grâce à notre expertise, notre réseau de partenaires fiables et notre engagement envers la qualité, nous vous 
+                            accompagnons dans toutes les étapes de vos opérations minières.
                         </p>
                         <div class="social-area-wrapper-one">
                             <ul>
@@ -46,42 +47,39 @@
                 <div class="col-lg-8">
                     <div class="footer-wrapper-right">
                         <div class="single-nav-area-footer use-link">
-                            <h4 class="title">Useful Links</h4>
+                            <h4 class="title">Liens utiles</h4>
                             <ul>
-                                <li><a href="about.html"><i class="fa-regular fa-arrow-right-long"></i>About Us</a></li>
-                                <li><a href="about.html"><i class="fa-regular fa-arrow-right-long"></i>Our Gallery</a>
+                                <li><a href="about.html"><i class="fa-regular fa-arrow-right-long"></i>Services</a></li>
+                                <li><a href="about.html"><i class="fa-regular fa-arrow-right-long"></i>Actualités</a>
                                 </li>
-                                <li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i>Our
-                                        Services</a></li>
-                                <li><a href="team.html"><i class="fa-regular fa-arrow-right-long"></i>Our Team</a></li>
-                                <li><a href="contact.html"><i class="fa-regular fa-arrow-right-long"></i>Contact Us</a>
+                                <li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i>A propos</a></li>
+                                
+                                <li><a href="contact.html"><i class="fa-regular fa-arrow-right-long"></i>Contact</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="single-nav-area-footer use-link">
-                            <h4 class="title">Quick Services</h4>
+                            <h4 class="title">Services</h4>
                             <ul>
-                                <li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i>General
-                                        Contracting</a>
+                                <li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i> Maintenance des moulins</a>
                                 </li>
-                                <li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i>Project
-                                        Management</a>
+                                <li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i>Collage des bandes convoyeuses</a>
                                 </li>
-                                <li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i>New
+                                <!--<li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i>New
                                         Construction</a></li>
                                 <li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i>Renovations &
                                         Remodeling</a></li>
                                 <li><a href="service.html"><i class="fa-regular fa-arrow-right-long"></i>Interior
                                         Finishing</a>
-                                </li>
+                                </li>-->
                             </ul>
                         </div>
                         <div class="single-nav-area-footer news-letter">
                             <h4 class="title">Newsletter</h4>
-                            <p>Aplications prodize before front end ortals visualize front end</p>
+                            <p>nous sommes ravis de vous partager les dernières nouvelles</p>
                             <form action="#">
-                                <input type="email" placeholder="Email Address" required>
-                                <button class="btn-subscribe mt--15">Subscribe Now</button>
+                                <input type="email" placeholder="Email" required>
+                                <button class="btn-subscribe mt--15">S'inscrire</button>
                             </form>
                         </div>
                     </div>
@@ -101,12 +99,12 @@
                                                 new Date().getFullYear()
                                             )
                                         </script>
-                                        Elever. All Rights Reserved.
+                                        <a>jofedigital</a>. All Rights Reserved.
                                     </p>
                                     <div class="right-nav">
                                         <ul>
-                                            <li><a href="terms-of-condition.html">Terms of use </a></li>
-                                            <li><a href="privacy-policy.html"> Privacy</a></li>
+                                            <li><a href="terms-of-condition.html">Conditions d'utilisation </a></li>
+                                            <li><a href="privacy-policy.html">Vie privée</a></li>
                                             <li><a href="privacy-policy.html">Environmental Policy</a></li>
                                         </ul>
                                     </div>
