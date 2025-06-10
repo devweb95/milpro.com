@@ -25,13 +25,15 @@
     <link rel="stylesheet" href="{{ asset('assets/scss/style.scss') }}"> 
     @stack('styles')
 </head>
-<body>
+<body dir="rtl">
 @vite(['resources/css/app.css'])
 @vite(['resources/assets/scss/style.scss'])
     @include('layouts.header')
-    <div class="container">
-    @yield('content')
-    </div>
+    
+    <main>
+        @yield('content') 
+    </main>
+    
     @include('layouts.footer')
 
     <!-- scripts -->

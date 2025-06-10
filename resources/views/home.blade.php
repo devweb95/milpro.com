@@ -1,7 +1,7 @@
 
 @extends('layouts.app')
 @section('content')
-<body>
+
 
     <!-- header two area start -->
 
@@ -466,7 +466,7 @@
                         <img src="assets/images/service/01.webp" alt="journey-area">
                         <div class="vedio-icone">
                             <a class="video-play-button play-video" href="#">
-                                <span> <b></b> Watch Video</span>
+                                <span> <b></b> Regardez la Video</span>
                             </a>
                             <div class="video-overlay">
                                 <a class="video-overlay-close">×</a>
@@ -1074,7 +1074,3 @@
     </div>
     
 @endsection
-
-</body>
-
-</html>
