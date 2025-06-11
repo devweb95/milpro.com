@@ -16,6 +16,9 @@
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/swiper.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/metismenu.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/magnifying-popup.css') }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
 
     <!-- bootstrap css -->
     <link rel="stylesheet" href="{{ asset('assets/css/vendor/bootstrap.min.css') }}">
@@ -24,10 +27,14 @@
 <!-- custom scss here -->
     <link rel="stylesheet" href="{{ asset('assets/scss/style.scss') }}"> 
     @stack('styles')
+
+   
+
 </head>
 <body dir="rtl">
 @vite(['resources/css/app.css'])
 @vite(['resources/assets/scss/style.scss'])
+
     @include('layouts.header')
     
     <main>

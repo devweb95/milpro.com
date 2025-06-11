@@ -38,8 +38,7 @@
                         Nous sommes toujours prêts à vous aider <br>et à répondre à vos questions
                         </h3>
                         <p class="disc">
-                            Pacific hake false trevally queen parrotfish black prickleback mosshead warbonnet sweeper!
-                            Greenling sleeper.
+                            Une question ? Un besoin spécifique ? Écrivez-nous !
                         </p>
                         <div class="row g-24">
                             <div class="col-lg-6">
@@ -49,7 +48,7 @@
                                     </div>
                                     <h5 class="title">Centre d'appel</h5>
                                     <p>
-                                        800 100 975 20 34 <br>1800-234-5678
+                                        +226 xx xx xx xx <br>+226 xx xx xx xx
                                     </p>
                                 </div>
                             </div>
@@ -60,7 +59,7 @@
                                     </div>
                                     <h5 class="title">Notre bureau</h5>
                                     <p>
-                                        USA, New York – 1060 <br>Str. First Avenue 1
+                                        XXX, XXX XXXX – XXXX <br>XXX. XXXXX XXXXXX X
                                     </p>
                                 </div>
                             </div>
@@ -70,7 +69,7 @@
                 <div class="col-lg-6">
                     <div id="form-messages"></div>
                     <form id="contact-form" action="mailer.php" class="contact-form-area-wrapper">
-                        <h4 class="title">Let’s Get in Touch</h4>
+                        <h4 class="title">Prenons contact</h4>
                         <div class="half-inpur-wrapper">
                             <div class="single">
                                 <input type="text" name="name" placeholder="Votre nom">

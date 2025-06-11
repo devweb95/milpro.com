@@ -24285,6 +24285,7 @@ hr.history {
   font-size: 16px;
   line-height: 24px;
   font-family: var(--font-primary);
+  color: white;
 }
 .single-funfacts-about .icon {
   width: 80px;
