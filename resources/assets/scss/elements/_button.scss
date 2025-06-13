@@ -43,8 +43,10 @@
         }
 
         &:hover {
+            color:black;
             &::after {
                 transform: translateY(0);
+                
             }
         }
     }

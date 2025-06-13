@@ -19,7 +19,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="banner-two-inner">
-                                        <span>Des solutions industrielles au service de vos ambitions.</span>
+                                        <span style="color:white;">Des solutions industrielles au service de vos ambitions.</span>
                                         <h1 class="title">
                                             Maintenance &  <br>
                                             Fourniture Industrielle <br>
@@ -136,7 +136,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-center-style-one">
-                        <span class="pre">Services</span>
+                        <span class="pre" style="color:white;">Services</span>
                         <h2 class="title">Nos differents services</h2>
                     </div>
                 </div>
@@ -431,6 +431,7 @@
                                 class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
+                <!--
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="single-service-area-3">
                         <div class="icon">
@@ -448,6 +449,7 @@
                         <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
+                -->
             </div>
         </div>
     </div>
@@ -799,7 +801,7 @@
                                                     </select>
                                                 </div> -->
                                             </div>
-                                            <textarea name="#" placeholder="Phone Number*" required></textarea>
+                                            <textarea name="#" placeholder="Message*" required></textarea>
                                             <button class="rts-btn btn-primary">
                                                 Envoyer
                                                 <img src="assets/images/icons/arrow-up-right.svg" alt="">

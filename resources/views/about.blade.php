@@ -77,7 +77,7 @@
                     <div class="service-about-wrapper">
                         <div class="title-three-left">
                             <span class="pre-title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800"
-                                style="display: block;">
+                                style="display: block;color: white;">
                                 Caractéristiques principales
                             </span>
                             <h3 class="title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
@@ -522,7 +522,7 @@
                 <div class="col-xl-6 col-lg-12 pt_md--30 pt_sm--50">
                     <div class="how-we-works-wrappers">
                         <div class="title-wrapper-left mb--50">
-                            <span class="pre">Comment nous travaillons</span>
+                            <span class="pre" style="color: white;">Comment nous travaillons</span>
                             <h2 class="title">
                                 Comment lancer votre demande de service
                             </h2>

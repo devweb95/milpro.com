@@ -17,7 +17,7 @@
                             </div>
                             <div class="right">
                                 <div class="social-header">
-                                    <span>Follow Us On:</span>
+                                    <span>Suivez-nous:</span>
                                     <ul>
                                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
@@ -80,16 +80,15 @@
             <img src="assets/images/banner/04.jpg" alt="elevate">
         </div>
         <div class="inner-content">
-            <h4 class="title">We Build Building and Great Constructive Homes.</h4>
+            <h4 class="title">Nous accompagnons l’essor des industries minières avec des solutions fiables.</h4>
             <p class="disc">
-                We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly
-                master new technologies.
+                Millpro fournit des équipements, produits et services de qualité pour les sites miniers. Notre expertise locale et notre engagement garantissent performance, durabilité et sécurité sur le terrain.
             </p>
             <div class="footer">
-                <h4 class="title">Got a project in mind?</h4>
-                <a href="contact.html" class="rts-btn btn-primary">Let's talk</a>
+            <h4 class="title">Un besoin en équipements ou services miniers ?</h4>
+            <a href="contact.html" class="rts-btn btn-primary">Contactez-nous</a>
             </div>
-        </div>
+            </div>
     </div>
     <!-- mobile menu area start -->
     <div class="mobile-menu d-block d-xl-none">

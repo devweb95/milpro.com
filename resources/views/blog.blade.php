@@ -52,7 +52,7 @@
                                 Construction industry undergone transformations in recent years. With advancements
                                 technology & the introduction of new materials
                             </p>
-                            <a href="blog-details.html" class="read-more-btn">Read More<i
+                            <a href="blog-details.html" class="read-more-btn">Lire plus<i
                                     class="fa-sharp fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                                 Construction industry undergone transformations in recent years. With advancements
                                 technology & the introduction of new materials
                             </p>
-                            <a href="blog-details.html" class="read-more-btn">Read More<i
+                            <a href="blog-details.html" class="read-more-btn">Lire plus<i
                                     class="fa-sharp fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                                 Construction industry undergone transformations in recent years. With advancements
                                 technology & the introduction of new materials
                             </p>
-                            <a href="blog-details.html" class="read-more-btn">Read More<i
+                            <a href="blog-details.html" class="read-more-btn">Lire plus<i
                                     class="fa-sharp fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -124,7 +124,7 @@
                                 Construction industry undergone transformations in recent years. With advancements
                                 technology & the introduction of new materials
                             </p>
-                            <a href="blog-details.html" class="read-more-btn">Read More<i
+                            <a href="blog-details.html" class="read-more-btn">Lire plus<i
                                     class="fa-sharp fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                                 Construction industry undergone transformations in recent years. With advancements
                                 technology & the introduction of new materials
                             </p>
-                            <a href="blog-details.html" class="read-more-btn">Read More<i
+                            <a href="blog-details.html" class="read-more-btn">Lire plus<i
                                     class="fa-sharp fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -172,7 +172,7 @@
                                 Construction industry undergone transformations in recent years. With advancements
                                 technology & the introduction of new materials
                             </p>
-                            <a href="blog-details.html" class="read-more-btn">Read More<i
+                            <a href="blog-details.html" class="read-more-btn">Lire plus<i
                                     class="fa-sharp fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -196,7 +196,7 @@
                                 Construction industry undergone transformations in recent years. With advancements
                                 technology & the introduction of new materials
                             </p>
-                            <a href="blog-details.html" class="read-more-btn">Read More<i
+                            <a href="blog-details.html" class="read-more-btn">Lire plus<i
                                     class="fa-sharp fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -220,7 +220,7 @@
                                 Construction industry undergone transformations in recent years. With advancements
                                 technology & the introduction of new materials
                             </p>
-                            <a href="blog-details.html" class="read-more-btn">Read More<i
+                            <a href="blog-details.html" class="read-more-btn">Lire plus<i
                                     class="fa-sharp fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -244,7 +244,7 @@
                                 Construction industry undergone transformations in recent years. With advancements
                                 technology & the introduction of new materials
                             </p>
-                            <a href="blog-details.html" class="read-more-btn">Read More<i
+                            <a href="blog-details.html" class="read-more-btn">Lire plus<i
                                     class="fa-sharp fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>

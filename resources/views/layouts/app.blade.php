@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/logo.jpg">
     <title>MILLPRO</title>
     <!-- fontawesome css -->
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/fontawesome.css') }}">
