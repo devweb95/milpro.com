@@ -59,7 +59,7 @@
                                 </ul>
                             </div>
                             <div class="header-end ">
-                                <a href="contact.html" class="rts-btn btn-primary ">Demande de devis</a>
+                                <a href={{route('contact') }} class="rts-btn btn-primary ">Demande de devis</a>
                                 <div class="nav-btn menu-btn">
                                     <img src="assets/images/logo/bar.svg" alt="nav-iamge">
                                 </div>
@@ -113,6 +113,12 @@
                 </li>
             </ul>
         </nav>
+        <div class="header-end ">
+            <a href={{route('contact') }} class="rts-btn btn-primary ">Demande de devis</a>
+            <div class="nav-btn menu-btn">
+            
+            </div>
+        </div>
 
         <div class="social-wrapper-one">
             <ul>
@@ -139,6 +145,7 @@
             </ul>
         </div>
     </div>
+     
     <!-- mobile menu area end -->
 </div>
     <!-- header area end -->
