@@ -36,7 +36,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="header-two-wrapper">
-                            <a href="index.html" class="logo-area">
+                            <a href="{{ route('index') }}" class="logo-area">
                                 <img src="assets/images/logo/logo.jpg" alt="logo" class="img-fluid" style="max-width: 150px;">
                             </a>
                             <div class="nav-area">
@@ -59,7 +59,7 @@
                                 </ul>
                             </div>
                             <div class="header-end ">
-                                <a href={{route('contact') }} class="rts-btn btn-primary ">Demande de devis</a>
+                                <a href={{route('devis') }} class="rts-btn btn-primary ">Demande de devis</a>
                                 <div class="nav-btn menu-btn">
                                     <img src="assets/images/logo/bar.svg" alt="nav-iamge">
                                 </div>
@@ -86,7 +86,7 @@
             </p>
             <div class="footer">
             <h4 class="title">Un besoin en équipements ou services miniers ?</h4>
-            <a href="contact.html" class="rts-btn btn-primary">Contactez-nous</a>
+            <a href="{{route('contact') }}" class="rts-btn btn-primary">Contactez-nous</a>
             </div>
             </div>
     </div>
@@ -114,7 +114,7 @@
             </ul>
         </nav>
         <div class="header-end ">
-            <a href={{route('contact') }} class="rts-btn btn-primary ">Demande de devis</a>
+            <a href={{route('devis') }} class="rts-btn btn-primary ">Demande de devis</a>
             <div class="nav-btn menu-btn">
             
             </div>

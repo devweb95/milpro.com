@@ -8,25 +8,26 @@
   
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/logo.jpg">
     <title>MILLPRO</title>
-    <!-- fontawesome css -->
-    <link rel="stylesheet" href="{{ asset('assets/css/plugins/fontawesome.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/plugins/aos.css') }}">
-    <!-- swiper css-->
-    <link rel="stylesheet" href="{{ asset('assets/css/plugins/odometer.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/plugins/swiper.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/plugins/metismenu.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/plugins/magnifying-popup.css') }}">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <!-- Plugins CSS -->
+<link rel="stylesheet" href="{{ asset('assets/css/plugins/fontawesome.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/plugins/aos.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/plugins/odometer.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/plugins/metismenu.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/plugins/magnifying-popup.css') }}">
+
+<!-- Swiper CSS via CDN -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="{{ asset('assets/css/vendor/bootstrap.min.css') }}">
 
 
-    <!-- bootstrap css -->
-    <link rel="stylesheet" href="{{ asset('assets/css/vendor/bootstrap.min.css') }}">
-    <!-- custom css here -->
-   <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}"> 
-<!-- custom scss here -->
-    <link rel="stylesheet" href="{{ asset('assets/scss/style.scss') }}"> 
-    @stack('styles')
+
+<!-- Custom CSS compilé -->
+<link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+
+@stack('styles')
 
    
 

@@ -31,4 +31,5 @@ class HomeController extends Controller
     {
         return view('contact'); // La vue 'home.blade.php' dans resources/views
     }
+   
 }

@@ -1,8 +1,9 @@
 
 @extends('layouts.app')
 @section('content')
-   
 
+<body class="inner">
+   
     <!-- rts banner area strart -->
     <div class="rts-banner-area rts-section-gap rts-breadcrumb-area  position-relative">
         <div class="container">
@@ -684,9 +685,10 @@
             </div>
         </div>
     </div>
-    <!-- rts blog area end -->
+    
+    @endsection
 
 
-    <!-- rts footer area start -->
 
+</body>
 

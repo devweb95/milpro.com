@@ -32,7 +32,7 @@
                                            
                                         </p>
                                         <div class="button-wrapper">
-                                            <a href="project-card.html" class="rts-btn btn-primary">Nos Services</a>
+                                            <a href="{{ route('services') }}" class="rts-btn btn-primary">Nos Services</a>
                                             <!-- <a href="service.html" class="rts-btn btn-white"></a> -->
                                         </div>
                                     </div>
@@ -40,6 +40,38 @@
                             </div>
                         </div>
                     </div>
+                    
+                    <!-- banner area end -->
+                </div>
+                <div class="swiper-slide">
+                    <!-- banner area start -->
+                    <div class="banner-area-start bg_banner-bg-area rts-section-gap bg_image">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="banner-two-inner">
+                                        <span style="color:white;">Des solutions industrielles au service de vos ambitions.</span>
+                                        <h1 class="title">
+                                            Maintenance &  <br>
+                                            Fourniture Industrielle <br>
+                                        </h1>
+                                        <p class="disc">
+                                            Nous sommes une entreprise burkinabè spécialisée dans les services de 
+                                            maintenance industrielle et la fourniture d’équipements pour les secteurs miniers, 
+                                            industriels et logistiques. Nos solutions sur mesure garantissent performance, sécurité 
+                                            et durabilité à vos installations.
+                                           
+                                        </p>
+                                        <div class="button-wrapper">
+                                            <a href="{{ route('services') }}" class="rts-btn btn-primary">Nos Services</a>
+                                            <!-- <a href="service.html" class="rts-btn btn-white"></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                     <!-- banner area end -->
                 </div>
                 
