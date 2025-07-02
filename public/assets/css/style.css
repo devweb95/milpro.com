@@ -46,9 +46,10 @@
 /* Default  */
 @import url("https://fonts.googleapis.com/css2?family=Gantari:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
 :root {
-  --color-primary: #F84E1D;
-  --color-secondary: #1F1F25;
+  --color-primary: #542D11;
+  --color-secondary: #FFD700;
   --color-body: #6B6B6B;
   --color-heading-1: #FFFFFF;
   --color-title: #141416;
@@ -15117,7 +15118,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   z-index: -1;
 }
 .engineering-banner .bg_banner-bg-area {
-  background-image: url(../images/banner/05.jpg);
+  background-image: url(../images/sliders/slide1.jpg);
   height: 790px;
 }
 @media only screen and (max-width: 991px) {
@@ -15170,10 +15171,10 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   }
 }
 .engineering-banner .bg_banner-bg-area.two {
-  background-image: url(../images/banner/06.jpg);
+  background-image: url(../images/sliders/slide2.jpg);
 }
 .engineering-banner .bg_banner-bg-area.three {
-  background-image: url(../images/banner/07.jpg);
+  background-image: url(../images/sliders/slide3.jpg);
 }
 .engineering-banner .swiper-pagination {
   left: 50%;
@@ -16093,7 +16094,10 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 .service-bg_image-3 {
   border-radius: 10px;
   height: 406px;
-  background-image: url(../images/service/03.webp);
+  background-image: url('../images/others/menworking.jpg');
+  background-size: cover;           /* ajuste l’image pour couvrir toute la div */
+  background-position: 50% 25%;     /* centre l’image */
+  background-repeat: no-repeat;     /* évite la répétition */
 }
 
 .mt-dec--130 {

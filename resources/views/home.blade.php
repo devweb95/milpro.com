@@ -24,7 +24,7 @@
                                             Maintenance &  <br>
                                             Fourniture Industrielle <br>
                                         </h1>
-                                        <p class="disc">
+                                        <p class="disc text-justify text-justify-last">
                                             Nous sommes une entreprise burkinabè spécialisée dans les services de 
                                             maintenance industrielle et la fourniture d’équipements pour les secteurs miniers, 
                                             industriels et logistiques. Nos solutions sur mesure garantissent performance, sécurité 
@@ -50,16 +50,15 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="banner-two-inner">
-                                        <span style="color:white;">Des solutions industrielles au service de vos ambitions.</span>
+                                        <span style="color:white;">Livrez l’essentiel, là où ça compte.</span>
                                         <h1 class="title">
-                                            Maintenance &  <br>
-                                            Fourniture Industrielle <br>
+                                            Logistique & <br>
+                                            Approvisionnement Technique <br>
                                         </h1>
-                                        <p class="disc">
-                                            Nous sommes une entreprise burkinabè spécialisée dans les services de 
-                                            maintenance industrielle et la fourniture d’équipements pour les secteurs miniers, 
-                                            industriels et logistiques. Nos solutions sur mesure garantissent performance, sécurité 
-                                            et durabilité à vos installations.
+                                        <p class="disc text-justify text-justify-last">
+                                            Mill Pro accompagne les acteurs industriels et miniers avec un service logistique réactif,
+                                            capable de livrer pièces, équipements et consommables, même dans les zones les plus isolées.
+                                            Une chaîne d'approvisionnement agile, pensée pour vos urgences comme pour vos projets de fond.
                                            
                                         </p>
                                         <div class="button-wrapper">
@@ -95,14 +94,14 @@
                         <div class="reveal-item overflow-hidden aos-init">
                             <div class="reveal-animation reveal-end reveal-primary aos aos-init" data-aos="reveal-end">
                             </div>
-                            <img src="assets/images/about/03.webp" alt="journey-area">
+                            <img src="{{asset('assets/images/others/present.jpg')}}" alt="journey-area">
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-6 mt_md--25 mt_sm--30">
                     <div class="about-area-right-3">
                         <h2 class="title">MILLPRO</h2>
-                        <p class="bold">  MILLPRO est une société dynamique et innovante, spécialisée dans les services de maintenance industrielle, 
+                        <p class="bold text-justify text-justify-last">  MILLPRO est une société dynamique et innovante, spécialisée dans les services de maintenance industrielle, 
                         les fournitures techniques et les solutions adaptées aux secteurs miniers, industriels et logistiques, au Burkina Faso et à l’étranger.
                         Forte d’une expertise multidisciplinaire, MILLPRO propose des services de qualité et des produits adaptés aux besoins spécifiques des 
                         industries extractives.
@@ -141,14 +140,14 @@
                                 </li>
                             </ul>
                             <div class="tab-content" id="myTabContent">
-                                <div class="tab-pane fade show active" id="home" role="tabpanel"
+                                <div class="tab-pane fade show active text-justify text-justify-last" id="home" role="tabpanel"
                                     aria-labelledby="home-tab">
                                     Fournir aux acteurs des secteurs miniers, industriels et logistiques des solutions 
                                     techniques fiables, innovantes et durables en matière de maintenance et de fourniture 
                                     industrielle, afin d’optimiser leurs performances opérationnelles et réduire les interruptions
                                      d’activité.
                                 </div>
-                                <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                                <div class="tab-pane fade text-justify text-justify-last" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                                     Devenir un leader de référence en Afrique de l’Ouest dans le domaine de la maintenance 
                                     industrielle et de la fourniture d’équipements techniques, reconnu pour son expertise, 
                                     sa réactivité et son engagement envers la qualité.
@@ -183,7 +182,7 @@
                                 <!-- single project area start -->
                                 <div class="project-area-start-1">
                                     <a href="project-details.html" class="thumbnail">
-                                        <img src="assets/images/portfolio/02.webp" alt="">
+                                        <img src="{{ asset('assets/images/others/moulain.jpg') }}" alt="">
                                     </a>
                                     <div class="inner-content-project">
                                         <a href="project-details.html">
@@ -220,7 +219,7 @@
                                 <!-- single project area start -->
                                 <div class="project-area-start-1">
                                     <a href="project-details.html" class="thumbnail">
-                                        <img src="assets/images/portfolio/03.webp" alt="">
+                                        <img src="{{ asset('assets/images/others/collage.jpg') }}" alt="">
                                     </a>
                                     <div class="inner-content-project">
                                         <a href="project-details.html">
@@ -404,7 +403,7 @@
                             <h4 class="title">Produits chimiques</h4>
                         </a>
                         <span class="number">02</span>
-                        <p class="disc">
+                        <p class="disc text-justify text-justify-last">
                             Once planning is complete, site preparation begins. This phase involves clearing the land,
                             grading, and excavating the site to ensure it is ready.
                         </p>
@@ -421,7 +420,7 @@
                             <h4 class="title">Huilerie</h4>
                         </a>
                         <span class="number">03</span>
-                        <p class="disc">
+                        <p class="disc text-justify text-justify-last">
                             Once planning is complete, site preparation begins. This phase involves clearing the land,
                             grading, and excavating the site to ensure it is ready.
                         </p>
@@ -438,7 +437,7 @@
                             <h4 class="title">Equipement de concasseur</h4>
                         </a>
                         <span class="number">04</span>
-                        <p class="disc">
+                        <p class="disc text-justify text-justify-last">
                             Once planning is complete, site preparation begins. This phase involves clearing the land,
                             grading, and excavating the site to ensure it is ready.
                         </p>
@@ -455,7 +454,7 @@
                             <h4 class="title">Equipement de tuyauterie</h4>
                         </a>
                         <span class="number">05</span>
-                        <p class="disc">
+                        <p class="disc text-justify text-justify-last">
                             Once planning is complete, site preparation begins. This phase involves clearing the land,
                             grading, and excavating the site to ensure it is ready.
                         </p>
@@ -497,11 +496,11 @@
                     <div class="reveal-item overflow-hidden aos-init">
                         <div class="reveal-animation reveal-end reveal-primary aos aos-init" data-aos="reveal-end">
                         </div>
-                        <img src="assets/images/service/01.webp" alt="journey-area">
+                        <img src="{{asset('assets/images/others/lance.jpg')}}" alt="journey-area">
                         <div class="vedio-icone">
-                            <a class="video-play-button play-video" href="#">
+                            <!--<a class="video-play-button play-video" href="#">
                                 <span> <b></b> Regardez la Video</span>
-                            </a>
+                            </a>-->
                             <div class="video-overlay">
                                 <a class="video-overlay-close">×</a>
                             </div>
@@ -523,7 +522,7 @@
                             </div>
                             <div class="info-wrapper">
                                 <h5 class="title">Consulter les services et produits</h5>
-                                <p class="disc">Millpro propose un accompagnement global pour les sociétés minières à travers des services adaptés à leurs besoins</p>
+                                <p class="disc text-justify text-justify-last">Millpro propose un accompagnement global pour les sociétés minières à travers des services adaptés à leurs besoins</p>
                             </div>
                         </div>
                         <div class="single-choose-us-one">
@@ -533,7 +532,7 @@
                             </div>
                             <div class="info-wrapper">
                                 <h5 class="title">Remplir le formulaire</h5>
-                                <p class="disc">Remplissez ce formulaire pour que nous puissions répondre rapidement à votre demande.</p>
+                                <p class="disc text-justify text-justify-last">Remplissez ce formulaire pour que nous puissions répondre rapidement à votre demande.</p>
                             </div>
                         </div>
                         <div class="single-choose-us-one">
@@ -543,7 +542,7 @@
                             </div>
                             <div class="info-wrapper">
                                 <h5 class="title">Contactez nous</h5>
-                                <p class="disc">Notre équipe est à votre écoute pour vous apporter une solution adaptée.</p>
+                                <p class="disc text-justify text-justify-last">Notre équipe est à votre écoute pour vous apporter une solution adaptée.</p>
                             </div>
                         </div>
                     </div>
@@ -594,7 +593,7 @@
                                         <div class="quote">
                                             <img src="assets/images/testimonials/brand/03.webp" alt="quote">
                                         </div>
-                                        <p class="disc">
+                                        <p class="disc text-justify text-justify-last">
                                             “The innovative designs presented by exceeded our expectations. Their
                                             creative approach and
                                             attention to detail were evident in every aspect of the project. Aesthetics
@@ -618,7 +617,7 @@
                                         <div class="quote">
                                             <img src="assets/images/testimonials/brand/03.webp" alt="quote">
                                         </div>
-                                        <p class="disc">
+                                        <p class="disc text-justify text-justify-last">
                                             “The innovative designs presented by exceeded our expectations. Their
                                             creative approach and
                                             attention to detail were evident in every aspect of the project. Aesthetics
@@ -642,7 +641,7 @@
                                         <div class="quote">
                                             <img src="assets/images/testimonials/brand/03.webp" alt="quote">
                                         </div>
-                                        <p class="disc">
+                                        <p class="disc text-justify text-justify-last">
                                             “The innovative designs presented by exceeded our expectations. Their
                                             creative approach and
                                             attention to detail were evident in every aspect of the project. Aesthetics
@@ -666,16 +665,16 @@
                                         <div class="quote">
                                             <img src="assets/images/testimonials/brand/03.webp" alt="quote">
                                         </div>
-                                        <p class="disc">
+                                        <p class="disc text-justify text-justify-last">
                                             “The innovative designs presented by exceeded our expectations. Their
                                             creative approach and
                                             attention to detail were evident in every aspect of the project. Aesthetics
                                             showcased their
                                             commitment”
                                         </p>
-                                        <div class="brand">
+                                        <!--<div class="brand">
                                             <img src="assets/images/testimonials/brand/02.webp" alt="brand">
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                             </div>
@@ -688,7 +687,7 @@
     <!-- rts testimonials area end -->
 
     <!-- projects contact us area start -->
-    <div class="projects-contact-area-3 rts-section-gap bg_image">
+   
         <!-- rts project area  -->
         <!-- <div class="rts-project-area-three">
             <div class="container">
@@ -849,7 +848,7 @@
             </div>
         </div>
         <!-- appoinment area end -->
-    </div>
+    
     <!-- projects contact us area end -->
 
 
@@ -861,11 +860,11 @@
                 <div class="col-lg-12">
                     <div class="title-between-style-five mb--35">
                         <div class="title-left-align-five">
-                            <span class="pre">A propos de notre entreprise</span>
+                            <span class="pre text-white">A propos de notre entreprise</span>
                             <h2 class="title">Nous sommes le leader en matière de  <br>
                                 </h2>
                         </div>
-                        <a href="appoinment.html" class="rts-btn btn-primary">Make an Appointment</a>
+                        <!--<a href="appoinment.html" class="rts-btn btn-primary">Make an Appointment</a>-->
                     </div>
                 </div>
             </div>
